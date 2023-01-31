@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @rohith-200
-- 👀 I’m interested in Machine learning, Deep learning
-- 🌱 I’m currently learning Deep learning
-- 💞️ I’m looking to collaborate on Real time projects
+- 👀 I’m interested in Java Stack
 
 
 <!---
